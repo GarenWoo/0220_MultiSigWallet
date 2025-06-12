@@ -2,8 +2,6 @@
 
 ![IMG0_Task](./images/IMG0_Task.png)
 
-<br />
-
 ## 合约代码
 
 ```solidity
