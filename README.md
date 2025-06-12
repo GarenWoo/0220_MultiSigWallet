@@ -1,6 +1,8 @@
-# 练习题（02.20）
+# 简易的多签钱包
 
 ![IMG0_Task](./images/IMG0_Task.png)
+
+<br />
 
 ## 合约代码
 
